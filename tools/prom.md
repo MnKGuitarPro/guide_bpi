@@ -23,7 +23,7 @@
 
 * Once you have the knowledge of a real-world process, first you need to identify **when** a software platform interacts with it
 * In the identified interaction, you must detect **which events** are being **registered** and if you have access to that register
-* 
+* To generate a log file to be imported in ProM, you must consider three core variables that need to be present: **what** action was logged, **who** made it and **when** was made 
 
 [prom_url]: http://www.promtools.org/doku.php
 [pmorg_url]: http://www.processmining.org/

@@ -4,4 +4,6 @@ A personal guide to understand Business Process Intelligence (BPI) and work with
 
 ## Tools
 
-### ProM
+### [ProM][prom_guide]
+
+[prom_guide]: https://github.com/MnKGuitarPro/guide_bpi/blob/master/tools/prom.md
